@@ -1,0 +1,95 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+*.py[cod]
+__pycache__/
+*.pyc
+
+# Virtual Environments
+env/
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+# Lua
+*.lua~
+
+# C#
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+packages/
+
+# Rust
+/target/
+
+# Elixir
+/_build/
+/deps/
+*.beam
+*.plt
+erl_crash.dump
+elixir_ls/
+.idea/
+*.elixir_ls
+
+# Go
+/bin/
+/pkg/
+/vendor/
+
+# Additional common files
+*.log
+*.sql
+*.sqlite
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
